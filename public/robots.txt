@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://basautosvc.com/sitemap.xml
