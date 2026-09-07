@@ -17,3 +17,7 @@ pnpm dev
 pnpm build
 pnpm preview
 ```
+
+## Contact form
+
+The contact form uses FormSubmit to email the company email without a server or API key. Name and phone number are required; email, subject, and message are optional. When provided, the sender's email is used for replies. FormSubmit handles spam verification and the confirmation page.
