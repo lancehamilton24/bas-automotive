@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { formatPhoneNumber } from './phone'
 
-const contactEmail = 'developerhamilton@outlook.com'
+const contactEmail = 'bassvc@bellsouth.net'
 
 export function ContactForm() {
   const [phoneNumber, setPhoneNumber] = useState('')
